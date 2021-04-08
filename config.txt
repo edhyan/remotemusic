@@ -1,5 +1,5 @@
 {
-  "jenis_ads": "1",
+  "jenis_ads": "2",
   "jamendo_id":"7a8ca9d6",
   "jamendo_secret":"fb96c3b71d32d630db762034978f6dbc",
   "admob_id":"ca-app-pub-6343574703556846~2508298635",
