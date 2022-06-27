@@ -1,10 +1,10 @@
 {
-    "pc": "net.mp3music.downloader.apps",
+    "pc": "com.musicsong.mp3downloader.freemusic",
     "client_id_music": "bc930b1d",
     "admob": [
       {
-        "banner": "ca-app-pub-3940256099942544/6300978111",
-        "inter": "ca-app-pub-3940256099942544/1033173712",
+        "banner": "ca-app-pub-6343574703556846/2206742156",
+        "inter": "ca-app-pub-6343574703556846/8523086107",
         "interval_inter": 3
       }
     ]
